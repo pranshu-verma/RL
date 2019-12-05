@@ -2,11 +2,11 @@
 
 
 #### Done
-Q Learning
-Q Table
-MDP
+1. Q Learning
+2. Q Table
+3. MDP
 
 #### In Near Future
-DQN
-Monte Carlo
-PPO
+1. DQN
+2. Monte Carlo
+3. PPO
